@@ -14,12 +14,12 @@
 <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ishita3314&show_icons=true&theme=gotham" alt="Shatakshi Verma | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi-verma&show_icons=true&theme=gotham" alt="Shatakshi Verma | Stats" />
 
 </details>
 
 
-![Visitor Count](https://profile-counter.glitch.me/%7BIshita3314%7D/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/%7BShatakshi-verma%7D/count.svg)
 
 [twitter]: https://twitter.com/@shatakshi024
 [gmail]: shatakshiverma388@gmail.com
