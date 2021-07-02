@@ -21,7 +21,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/%7BShatakshi-verma%7D/count.svg)
 
-[twitter]: https://twitter.com/@shatakshi024
+[twitter]: https://twitter.com/@shatakshi_024
 [gmail]: shatakshiverma388@gmail.com
 [linkedin]:https://www.linkedin.com/in/shatakshi-verma-708426200
 [Instagram]: https://www.instagram.com/shatakshi24verma
