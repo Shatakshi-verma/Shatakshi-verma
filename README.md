@@ -3,8 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shatakshi-verma&label=Profile%20views&color=0e75b6&style=flat" alt="Shatakshi-verma" /> </p>
 
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@shatakshi_024)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shatakshi-verma-708426200)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shatakshi_024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shatakshi_024" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shatakshi-verma-708426200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shatakshi-verma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shatakshi24verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shatakshi-verma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pooja gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Shatakshi Verma" height="30" width="40" /></a>
+
 
 ### My Tech Toolbox 🧰
 
