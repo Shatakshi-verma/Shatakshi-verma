@@ -37,4 +37,3 @@
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shatakshi-verma&show_icons=true&locale=en" alt="Shatakshi-verma" /></p>
