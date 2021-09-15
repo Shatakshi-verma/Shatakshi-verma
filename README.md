@@ -25,7 +25,7 @@
 
 * My primary coding and problem solving language: C++
 - 📫 Reach out to me at **shatakshiverma388@gmail.com**
-- I wrie techical blogs at                                                                                                                                                  <a href="https://shatakshi24.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp;
+- I wrie techical blogs at <a href="https://shatakshi24.hashnode.dev/">Hashnode</a>
 
 ---
 <details>
