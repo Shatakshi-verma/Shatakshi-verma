@@ -1,5 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shatakshi Verma
 
+![Hello-gif](https://media.giphy.com/media/brsEO1JayBVja/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shatakshi-verma&label=Profile%20views&color=0e75b6&style=flat" alt="Shatakshi-verma" /> </p>
 
 
