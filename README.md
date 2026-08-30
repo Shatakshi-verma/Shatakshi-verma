@@ -25,7 +25,6 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-* My primary coding and problem solving language: C++
 - 📫 Reach out to me at **shatakshiverma388@gmail.com**
 - I write techical blogs at <a href="https://shatakshi24.hashnode.dev/">Hashnode</a>
 
